@@ -3,7 +3,6 @@ When would you want to create a remote repository rather than keeping all your w
 Making a remote repository allows you to push or pull from other computers or share work 
 with collaborators. Otherwise, you or collaborators would always have to use the same machine.
 ---
-
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date 
 with your remote repository?
 
@@ -11,3 +10,14 @@ You wouldn't want Git to make these types of automatic changes while making a ch
 that particular iteration may destablize the solid base code of a project. The manual commit
 should come once all logical changes are made. 
 ---
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are used to copy a Git repository into another another your account. Clones only work on repositories
+on one computer. Branches are used to make changes to code contained in a master file without altering the
+stable version, allowing for collaboration.
+---
+
+
+
+
+
