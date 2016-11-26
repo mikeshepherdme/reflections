@@ -14,7 +14,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Forks are used to copy a Git repository into another another your account. Clones only work on repositories
 on one computer. Branches are used to make changes to code contained in a master file without altering the
-stable version, allowing for collaboration.
+stable version, allowing collaboration.
 ---
 
 
