@@ -14,9 +14,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It's good for collaborative work, since when you have the last known state, you can merge any local changes to the remore and push it back to GitHub. 
 ---
-
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Collaboration would probably take the form of a Google Drive or Dropbox directory. You could have rules about collaborators altering a file at once, manually sending messages when the owner is out to prevent conflct. It would accomplish the task without the need to learn Git commands and codes, but it also makes people do the things that Git already does.
+---
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-
+The new branch initiates the pull request, allowing for collaboration. Changes in the master allow you to track changes over time for a project that you could be working on alone.
