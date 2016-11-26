@@ -17,6 +17,6 @@ It's good for collaborative work, since when you have the last known state, you 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-Collaboration would probably take the form of a Google Drive or Dropbox directory. You could have rules about collaborators altering one file at once, manually sending messages when the owner is out to prevent conflct. It would accomplish the task without the need to learn Git commands and codes, but it also makes people do the things that Git already does.
+Collaboration would probably take the form of a Google Drive or Dropbox directory. You could have rules about collaborators altering a file at once, manually sending messages when the owner is out to prevent conflct. It would accomplish the task without the need to learn Git commands and codes, but it also makes people do the things that Git already does.
 
 
