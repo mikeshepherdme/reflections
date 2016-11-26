@@ -1,23 +1,22 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
-Making a remote repository allows you to push or pull from other computers or share work 
-with collaborators. Otherwise, you or collaborators would always have to use the same machine.
+Making a remote repository allows you to push or pull from other computers or share work with collaborators. Otherwise, you or collaborators would always have to use the same machine.
 ---
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date 
-with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-You wouldn't want Git to make these types of automatic changes while making a change because 
-that particular iteration may destablize the solid base code of a project. The manual commit
-should come once all logical changes are made. 
+You wouldn't want Git to make these types of automatic changes while making a change because that particular iteration may destablize the solid base code of a project. The manual commit should come once all logical changes are made. 
 ---
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-Forks are used to copy a Git repository into another another your account. Clones only work on repositories
-on one computer. Branches are used to make changes to code contained in a master file without altering the
-stable version, allowing collaboration.
+Forks are used to copy a Git repository into another another your account. Clones only work on repositories on one computer. Branches are used to make changes to code contained in a master file without altering the stable version, allowing collaboration.
+---
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It's good for collaborative work, since when you have the last known state, you can merge any local changes to the remore and push it back to GitHub. 
 ---
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-
+Collaboration would probably take the form of a Google Drive or Dropbox directory. You could have rules about collaborators altering one file at once, manually sending messages when the owner is out to prevent conflct. It would accomplish the task without the need to learn Git commands and codes, but it also makes people do the things that Git already does.
 
 
